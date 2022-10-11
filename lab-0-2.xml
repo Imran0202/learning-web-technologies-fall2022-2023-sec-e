@@ -1,0 +1,18 @@
+<addmissions>
+    <addmission1>
+      <sl.no.> 23 </sl.no.>
+      <name> John carter </name>
+      <addmissiondate> 25/12/2015 </addmissiondate>
+    </addmission1>
+    <addmission2>
+      <sl.no.> 29 </sl.no.>
+      <name> Bob Marshal </name>
+      <addmissiondate> 13/01/1999 </addmissiondate>
+    </addmission2>
+    <addmission3>
+      <sl.no.> 35 </sl.no.>
+      <name> Clark Kent </name>
+      <addmissiondate> 17/06/2005 </addmissiondate>
+    </addmission3>
+    
+    </addmissions>
